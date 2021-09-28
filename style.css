@@ -24,8 +24,11 @@ hr{
 }
 
 .center-container {
+    padding-top: 0.5rem;
     max-width: 600px;
     margin: auto;
+    padding-bottom: 1rem;
+    
 }
 
 /* links */
@@ -129,7 +132,10 @@ hr{
         /* Section */
 
 .ow-section{
+    padding-top: 0.5rem;
     background-color: var(--off-white);
+    border-radius: 1rem;
+    padding-bottom: 1rem;
 }
 
 .t-inside{
@@ -157,7 +163,8 @@ hr{
     color: var(--blue);
 }
 
-    section{
+section{
+    
     padding: 2rem;
     margin: 2rem 0;
     border-radius: 1rem;
