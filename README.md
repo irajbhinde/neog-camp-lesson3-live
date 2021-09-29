@@ -2,9 +2,8 @@
 My Profile - NeoG Lesson 3 
 
 # Youtube Lesson
-HTML - [Link] (https://www.youtube.com/watch?v=No8qdcVYiQw&ab_channel=TanayPratap)
-CSS - [Link] (https://www.youtube.com/watch?v=No8qdcVYiQw&ab_channel=TanayPratap)
-[Link](https://youtu.be/P0dL7sl5jIc)
+[Link] (https://www.youtube.com/watch?v=No8qdcVYiQw&ab_channel=TanayPratap)
+[Link] (https://www.youtube.com/watch?v=No8qdcVYiQw&ab_channel=TanayPratap)
 
 # Programming Language:
  - html
