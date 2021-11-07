@@ -150,8 +150,6 @@ hr{
     border-end-end-radius: 1rem;
     color: white;
     padding: 1rem;
-    margin: -3rem 0;
-    margin-top: 2rem;
 }
 
 .f-text{
@@ -159,7 +157,9 @@ hr{
 }
 
 .socials{
-    text-align: center;
+    
+    justify-content: center;
+    display: flex;
 }
 
 .header .header-para .web-d{
